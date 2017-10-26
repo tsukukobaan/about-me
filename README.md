@@ -10,13 +10,11 @@ Profile description of tsukukobaan
 ## Education BackGrounds
 ### Attended Schools
 - The University of Tokyo, Tokyo, Japan (April, 2012 - August, 2016)
-  Master student, Technical Assistant, Samejima Laboratory (April, 2016 - present)
-  Bachelor student, Department of Biomaterial science, 
-  Faculty of Agriculture (April, 2014 - March,  2016) 
-     Advisor: Masahiro Samejima, Ph.D. 
-     Research topic: Glycosynthesis by mutated enzyme from white-rot fungus   
-      Phanerochaete chrysosporium
-     	Bachelor student, College of Arts and Science (April, 2012 - March, 2014)
+  * Master student, Technical Assistant, Samejima Laboratory (April, 2016 - present)\
+  * Bachelor student, Department of Biomaterial science, Faculty of Agriculture (April, 2014 - March,  2016) \
+     Advisor: Masahiro Samejima, Ph.D. \
+     Research topic: Glycosynthesis by mutated enzyme from white-rot fungus Phanerochaete chrysosporium \
+  * Bachelor student, College of Arts and Science (April, 2012 - March, 2014)
 - Tsukuba University high school of Komaba, Tokyo, Japan (April, 2009 - March, 2012)
 	
 ### Other Intensive Studies
