@@ -19,52 +19,52 @@ Profile description of tsukukobaan
 	
 ### Other Intensive Studies
 - **Sports, Culture, World Forum by ETIC**, Tokyo, Japan(Octover, 2016)
-	Selected participant of the Sports business forum
+  * Selected participant of the Sports business forum
 - **VIA Programs** Explore Social Innovation, San Francisco, CA, USA (August, 2016)
 - **Novartis Biocamp Japan**, Tokyo, Japan(July, 2016)
-	Selected participant of 2016
+  * Selected participant of 2016
 	
 ## Profession
 
 ## Working, Teaching Experience and Internships
 - **Japan Ice Hockey Federation**, Tokyo, Japan (October, 2017 - present)
-	International committee member\
+  * International committee member\
 	*description*\
 	Coordinating relationships with Ice Hockey Federations of other states.
 - **COLOFULBOARD, inc.**, Tokyo, Japan (May, 2017 - present)
-	Software Engineer\
+  * Software Engineer\
 	*description*\
 	Backend with GCP/python, Frontend with Vue.js plus somewhat machinelearning with python packages.
 - **So-net Media Networks, inc.**, Tokyo, Japan (April, 2017 - April, 2017)
-	Machinelearning Internship\
+  * Machinelearning Internship\
 	*description*\
 	Analyzing digital advertizement impression data with python/tensorflow,chainer
 - **Wantedly, inc.**, Tokyo, Japan (April, 2017 - April, 2017)
-	Frontend developping Internship\
+  * Frontend developping Internship\
 	*description*\
 	Frontend with React.js
 - **The University of Tokyo**, Tokyo, Japan (April, 2016 - present)
-	Technical Assistant, Samejima Laboratory\
+  * Technical Assistant, Samejima Laboratory\
 	*description*\
 	Enzymology, Christalography and Glycoscience
 - **East Hokkaido Sports Commission**, Kushiro, Hokkaido (June, 2016 - present)
-	Advisor, Consultant\
+  * Advisor, Consultant\
 	*description*\
 	Advising internet broadcasting operations.
 - **Tokyo IceHockey Channel**, Tokyo, Japan (Octover, 2015 - present)
-	Co-founder\
+  * Co-founder\
 	*description*\
 	Sports Broad casting service. [see here](https://www.facebook.com/tokyo.icehockey.channel)
 - **Goldman Sachs Japan**, Tokyo, Japan (February - March, 2015)
-	Student intern
+  * Student intern
 - **Bain and Company Japan**, Tokyo, Japan (November, 2015)
-	Student intern
+  * Student intern
 - **East Ventures**, Tokyo, Japan (February, 2015 - March, 2015)
-	Research assistant(part time)
+  * Research assistant(part time)
 - **Life is Tech!**, Tokyo, Japan (May, 2014 - December, 2014)
-	iOS programming mentor(part time)
+  * iOS programming mentor(part time)
 - **Shannon Lab.Inc**, Tokyo, Japan (August, 2013 - February, 2014)
-	Student intern as python programmer(part time)
+  * Student intern as python programmer(part time)
 - **Codeal.Inc**, Tokyo, Japan (May, 2013 - September, 2014)
-	Contents director(part time)
+  * Contents director(part time)
 
