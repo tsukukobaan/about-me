@@ -21,13 +21,14 @@ Profile description of tsukukobaan
 ### Other Intensive Studies & Activities
 - **アフター2020を見据えて – スポーツを通じて社会をより豊かにするには**, Tokyo, Japan(September, 2017)　
   * Speaker\
-    *[event page](http://issuehub.jp/issues/sports/294)
+    [event page](http://issuehub.jp/issues/sports/294)
 - **2017年度 東京大学 Summer Founders Program**, Tokyo, Japan(August-September, 2017)　
-  * Selected participant of 2017 [program detail](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)
+  * Selected participant of 2017\
+    [program detail](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)
 - **「スポーツの明日を切り拓く〜学生主導でスポーツを変革する〜」Powered by VICTORY**, Tokyo, Japan(July, 2017)　
   * Speaker, Moderator & Event Manager\
     [event page](https://techplay.jp/event/626615)\
-    [News articles](https://victorysportsnews.com/articles/4820)\
+    [News articles](https://victorysportsnews.com/articles/4820)
 - **Sports, Culture, World Forum by ETIC**, Tokyo, Japan(Octover, 2016)
   * Selected participant of the Sports business forum
 - **VIA Programs** Explore Social Innovation, San Francisco, CA, USA (August, 2016)
