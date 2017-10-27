@@ -20,14 +20,14 @@ Profile description of tsukukobaan
 	
 ### Other Intensive Studies & Activities
 - **アフター2020を見据えて – スポーツを通じて社会をより豊かにするには**, Tokyo, Japan(September, 2017)　
-  * Speaker
+  * Speaker\
     *[event page](http://issuehub.jp/issues/sports/294)
 - **2017年度 東京大学 Summer Founders Program**, Tokyo, Japan(August-September, 2017)　
   * Selected participant of 2017 [program detail](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html)
 - **「スポーツの明日を切り拓く〜学生主導でスポーツを変革する〜」Powered by VICTORY**, Tokyo, Japan(July, 2017)　
-  * Speaker, Moderator & Event Manager
-    *[event page](https://techplay.jp/event/626615)
-    *[News articles](https://victorysportsnews.com/articles/4820)
+  * Speaker, Moderator & Event Manager\
+    [event page](https://techplay.jp/event/626615)\
+    [News articles](https://victorysportsnews.com/articles/4820)\
 - **Sports, Culture, World Forum by ETIC**, Tokyo, Japan(Octover, 2016)
   * Selected participant of the Sports business forum
 - **VIA Programs** Explore Social Innovation, San Francisco, CA, USA (August, 2016)
@@ -57,8 +57,9 @@ Profile description of tsukukobaan
 	Advising internet broadcasting operations.
 - **Tokyo IceHockey Channel**, Tokyo, Japan (Octover, 2015 - *present*)
   * Co-founder\
-	Sports Broad casting service. [see here](https://www.facebook.com/tokyo.icehockey.channel)
-	*[News article on Asahi](http://www.asahi.com/articles/ASK5231LMK52UTQP001.html)
+	Sports Broad casting service.\
+	[see here](https://www.facebook.com/tokyo.icehockey.channel)\
+	[News article on Asahi](http://www.asahi.com/articles/ASK5231LMK52UTQP001.html)
 - **Goldman Sachs Japan**, Tokyo, Japan (February - March, 2015)
   * Student intern at Market division
 - **Bain and Company Japan**, Tokyo, Japan (November, 2015)
