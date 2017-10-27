@@ -9,7 +9,7 @@ Profile description of tsukukobaan
 
 ## Education BackGrounds
 ### Attended Schools
-- **The University of Tokyo** , Tokyo, Japan (April, 2012 - August, 2016)
+- **The University of Tokyo** , Tokyo, Japan (April, 2012 - **present**)
   * Master student, Technical Assistant, Samejima Laboratory (April, 2016 - present)
   * Bachelor student, Department of Biomaterial science, Faculty of Agriculture (April, 2014 - March,  2016)
      Advisor: Masahiro Samejima, Ph.D. \
