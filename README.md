@@ -38,6 +38,12 @@ Profile description of tsukukobaan
 	
 ## Profession
 ### Working, Teaching Experience and Internships
+- **Japan IceHockey Channel, inc.**, Tokyo, Japan (February, 2018 - *present*)
+  * CEO\
+  	Expanding the activity of **Tokyo IceHockey Channel** mentioned below.
+- **ventus, inc.**, Tokyo, Japan (November, 2017 - *present*)
+  * CEO\
+  	Challenging in integration of blockchain application to field of sports business.
 - **Japan Ice Hockey Federation**, Tokyo, Japan (October, 2017 - *present*)
   * International committee member\
 	Coordinating relationships with Ice Hockey Federations of other states.
