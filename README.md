@@ -99,7 +99,9 @@ Profile description of tsukukobaan
 	* Swift
 - **Frameworks**
 	* Vue.js
-	* django
+	* Nuxt.js
+	* Django
+	* Ruby on Rails
 - **Experience in Cloud Services**
 	* Google App Engine
 	* Google Cloud Datastore
@@ -107,6 +109,7 @@ Profile description of tsukukobaan
 	* Google Compute Engine
 	* Google Cloud Functions
 	* Firebase
+	* AWS
 - **Software packages**
 	* NewTek Tricaster Series
 	* Adobe PremierePro
