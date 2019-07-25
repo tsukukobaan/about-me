@@ -19,6 +19,8 @@ Profile description of tsukukobaan
 - **Tsukuba University high school of Komaba**, Tokyo, Japan (April, 2009 - March, 2012)
 	
 ### Other Intensive Studies & Activities
+- **Finalist of Sports Tech Tokyo**, Tokyo, Japan(May, 2019)
+    [TechCrunch](https://jp.techcrunch.com/2019/04/26/sports-tech-tokyo-finalist-12/)
 - **アフター2020を見据えて – スポーツを通じて社会をより豊かにするには**, Tokyo, Japan(September, 2017)　
   * Speaker\
     [event page](http://issuehub.jp/issues/sports/294)
@@ -110,9 +112,12 @@ Profile description of tsukukobaan
 	* Adobe PremierePro
 	* Adobe AfterEffect
 	* Adobe Photoshop
+	* Adobe Audition
+	* Adobe Encore
 	* AdobeXD
 	* Pymol
 	
 ## Past works & Portofolio　(Films&Still Pics)
+- [Youtube some wedding videos and like...](https://www.youtube.com/watch?v=8G_UF0Ikt58&list=PLYgWQyRc4VBbejH6zE2E4nCixmRFQbAPj)
 - [vimeo](https://vimeo.com/282487719)
 - [instagram](https://www.instagram.com/tsukukobaan/)
