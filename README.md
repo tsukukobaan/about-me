@@ -10,7 +10,7 @@ Profile description of tsukukobaan
 ## Education BackGrounds
 ### Attended Schools
 - **The University of Tokyo** , Tokyo, Japan (April, 2012 - March, 2019)
-  * Master student, Technical Assistant, Samejima Laboratory (April, 2016 - present)
+  * Master student, Technical Assistant, Samejima Laboratory (April, 2016 - March, 2019)
   * Bachelor student, Department of Biomaterial science, Faculty of Agriculture (April, 2014 - March,  2016)
      Advisor: Masahiro Samejima, Ph.D. \
      Research topic: \
@@ -43,16 +43,16 @@ Profile description of tsukukobaan
 	
 ## Profession
 ### Working, Teaching Experience and Internships
-- **Japan IceHockey Channel, inc.**, Tokyo, Japan (February, 2018 - *present*)
+- **Japan IceHockey Channel, inc.**, Tokyo, Japan (February, 2018 - Sep, 2019)
   * CEO\
   	Expanding the activity of **Tokyo IceHockey Channel** mentioned below.
-- **ventus, inc.**, Tokyo, Japan (November, 2017 - *present*)
+- **ventus, inc.**, Tokyo, Japan (November, 2017 - Sep, 2019)
   * CEO\
   	Challenging in integration of blockchain application to field of sports business.
-- **Japan Ice Hockey Federation**, Tokyo, Japan (October, 2017 - *present*)
+- **Japan Ice Hockey Federation**, Tokyo, Japan (October, 2017 - Sep, 2019)
   * International committee member\
 	Coordinating relationships with Ice Hockey Federations of other states.
-- **COLOFULBOARD, inc.**, Tokyo, Japan (May, 2017 - *present*)
+- **COLOFULBOARD, inc.**, Tokyo, Japan (May, 2017 - Dec, 2017)
   * Software Engineer\
 	Backend with GCP/python, Frontend with Vue.js plus somewhat machinelearning with python packages.
 - **So-net Media Networks, inc.**, Tokyo, Japan (April, 2017 - April, 2017)
@@ -61,13 +61,13 @@ Profile description of tsukukobaan
 - **Wantedly, inc.**, Tokyo, Japan (April, 2017 - April, 2017)
   * Frontend developping Internship\
 	Frontend with React.js
-- **The University of Tokyo**, Tokyo, Japan (April, 2016 - *present*)
+- **The University of Tokyo**, Tokyo, Japan (April, 2016 - March, 2019)
   * Technical Assistant, Samejima Laboratory\
 	Enzymology, Christalography and Glycoscience
-- **East Hokkaido Sports Commission**, Kushiro, Hokkaido (June, 2016 - present)
+- **East Hokkaido Sports Commission**, Kushiro, Hokkaido (June, 2016 - Sep, 2019)
   * Advisor, Consultant\
 	Advising internet broadcasting operations.
-- **Tokyo IceHockey Channel**, Tokyo, Japan (Octover, 2015 - *present*)
+- **Tokyo IceHockey Channel**, Tokyo, Japan (Octover, 2015 - Sep, 2019)
   * Co-founder\
 	Sports Broad casting service.\
 	[see here](https://www.facebook.com/tokyo.icehockey.channel)\
