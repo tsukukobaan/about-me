@@ -5,7 +5,7 @@ Profile description of tsukukobaan
 * [Facebook](https://www.facebook.com/tsukukobaan)
 * [Twitter](https://twitter.com/tsukukobaan)
 * [Wantedly](https://www.wantedly.com/users/277413)
-* [LinkedIn(Not being updated)](www.linkedin.com/in/tsukukobaan)
+* [LinkedIn](www.linkedin.com/in/tsukukobaan)
 
 ## Education BackGrounds
 ### Attended Schools
