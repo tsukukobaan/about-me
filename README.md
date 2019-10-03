@@ -9,7 +9,7 @@ Profile description of tsukukobaan
 
 ## Education BackGrounds
 ### Attended Schools
-- **The University of Tokyo** , Tokyo, Japan (April, 2012 - **present**)
+- **The University of Tokyo** , Tokyo, Japan (April, 2012 - March, 2019)
   * Master student, Technical Assistant, Samejima Laboratory (April, 2016 - present)
   * Bachelor student, Department of Biomaterial science, Faculty of Agriculture (April, 2014 - March,  2016)
      Advisor: Masahiro Samejima, Ph.D. \
@@ -21,6 +21,9 @@ Profile description of tsukukobaan
 ### Other Intensive Studies & Activities
 - **Finalist of Sports Tech Tokyo**, Tokyo, Japan(May, 2019)
     [TechCrunch](https://jp.techcrunch.com/2019/04/26/sports-tech-tokyo-finalist-12/)
+- **Winner of ENTX an acceleration program run by Sony Music Entertainment Inc,**, Tokyo, Japan(Dec, 2018)
+    [ENTX](https://entx.jp/2018/)
+    [Bridge](https://thebridge.jp/2018/12/entx-1st-batch-demo-day)
 - **アフター2020を見据えて – スポーツを通じて社会をより豊かにするには**, Tokyo, Japan(September, 2017)　
   * Speaker\
     [event page](http://issuehub.jp/issues/sports/294)
