@@ -43,7 +43,7 @@ Profile description of tsukukobaan
 	
 ## Profession
 ### Working, Teaching Experience and Internships
-- **Japan IceHockey Channel, inc.**, Tokyo, Japan (November, 2014 - Sep, 2019)
+- **Japan IceHockey Channel, inc.**, Tokyo, Japan (November, 2014 - Sep, 2019)\
   Sports Broad casting service.\
 	[see here](https://www.facebook.com/tokyo.icehockey.channel)\
 	[News article on Asahi](http://www.asahi.com/articles/ASK5231LMK52UTQP001.html)
