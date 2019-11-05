@@ -48,7 +48,7 @@ Profile description of tsukukobaan
 	[see here](https://www.facebook.com/tokyo.icehockey.channel)\
 	[News article on Asahi](http://www.asahi.com/articles/ASK5231LMK52UTQP001.html)
   * CEO\
-  	Expanding the activity of **Tokyo IceHockey Channel** mentioned below.
+  	Expanding the activity of **Tokyo IceHockey Channel** mentioned above.
 	Works including Sponsorship sales, Streaming production direction, Live Stream Cameraman, CG Egineer, Video Engineer, Sound Engineer, Graphic Designer, Motion Geraphic Designer as well as all the CEO related works.
 - **ventus, inc.**, Tokyo, Japan (November, 2017 - Sep, 2019)
   * CEO\
