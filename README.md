@@ -43,16 +43,25 @@ Profile description of tsukukobaan
 	
 ## Profession
 ### Working, Teaching Experience and Internships
-- **Japan IceHockey Channel, inc.**, Tokyo, Japan (February, 2018 - Sep, 2019)
+- **Japan IceHockey Channel, inc.**, Tokyo, Japan (November, 2014 - Sep, 2019)
+  Sports Broad casting service.\
+	[see here](https://www.facebook.com/tokyo.icehockey.channel)\
+	[News article on Asahi](http://www.asahi.com/articles/ASK5231LMK52UTQP001.html)
   * CEO\
   	Expanding the activity of **Tokyo IceHockey Channel** mentioned below.
 	Works including Sponsorship sales, Streaming production direction, Live Stream Cameraman, CG Egineer, Video Engineer, Sound Engineer, Graphic Designer, Motion Geraphic Designer as well as all the CEO related works.
 - **ventus, inc.**, Tokyo, Japan (November, 2017 - Sep, 2019)
   * CEO\
   	Challenging in integration of blockchain application to field of sports business.
+	Product manager, Frontend engineer, Backend engineer and Graphic & Product designer.
+	Focused engineering technologies include, GCP, AWS, Golang, Ruby on rails, Vue.js
 - **Japan Ice Hockey Federation**, Tokyo, Japan (October, 2017 - Sep, 2019)
   * International committee member\
 	Coordinating relationships with Ice Hockey Federations of other states.
+	Managing statement proposals for government subsidied projects as well as the management planning of the hocoey camp
+	[スポーツ・フォー・トゥモロー　マレーシアへのアイスホッケー指導者の派遣](https://www.mofa.go.jp/mofaj/p_pd/ep/page23_002797.html)
+	IT related consulting and project management.
+	Translation of statement proposals and bylaws.
 - **COLOFULBOARD, inc.**, Tokyo, Japan (May, 2017 - Dec, 2017)
   * Software Engineer\
 	Backend with GCP/python, Frontend with Vue.js plus somewhat machinelearning with python packages.
@@ -68,11 +77,6 @@ Profile description of tsukukobaan
 - **East Hokkaido Sports Commission**, Kushiro, Hokkaido (June, 2016 - Sep, 2019)
   * Advisor, Consultant\
 	Advising internet broadcasting operations.
-- **Tokyo IceHockey Channel**, Tokyo, Japan (Octover, 2015 - Sep, 2019)
-  * Co-founder\
-	Sports Broad casting service.\
-	[see here](https://www.facebook.com/tokyo.icehockey.channel)\
-	[News article on Asahi](http://www.asahi.com/articles/ASK5231LMK52UTQP001.html)
 - **Goldman Sachs Japan**, Tokyo, Japan (February - March, 2015)
   * Student intern at Market division
 - **Bain and Company Japan**, Tokyo, Japan (November, 2015)
@@ -124,7 +128,7 @@ Profile description of tsukukobaan
 	* AdobeXD
 	* Pymol
 	
-## Past works & Portofolio　(Films&Still Pics)
+## Past works & Portofolio　(Films, Pics, Videographies)
 - [Youtube some wedding videos and like...](https://www.youtube.com/watch?v=8G_UF0Ikt58&list=PLYgWQyRc4VBbejH6zE2E4nCixmRFQbAPj)
 - [vimeo](https://vimeo.com/282487719)
 - [instagram](https://www.instagram.com/tsukukobaan/)
